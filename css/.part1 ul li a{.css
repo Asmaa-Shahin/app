@@ -1,0 +1,22 @@
+.part1 ul li a{
+    text-decoration: none;
+    
+    font-size: 13px;
+color: black;
+   
+}
+.part1 ul li a:hover{
+    color:#f88c00
+}
+
+
+.part1 ul li{
+    transition: all .6s ease-in-out; 
+}
+.part1 ul li:hover{
+    padding-left:15px;
+    
+    color:#f88c00;
+   
+
+    

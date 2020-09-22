@@ -129,6 +129,9 @@ body{
     text-decoration: none;
     color:black;
 }
+.meta  a{
+    color: black!important;
+}
 
 .overlay{
     position: absolute;

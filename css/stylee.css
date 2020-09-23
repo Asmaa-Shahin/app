@@ -12,10 +12,7 @@ body{
 
 
 
-@media(max-width:576px){
-.container{
-    width: 100%!important;
-}}
+
 
 .logo{
     background-color: #F5F5F5;
